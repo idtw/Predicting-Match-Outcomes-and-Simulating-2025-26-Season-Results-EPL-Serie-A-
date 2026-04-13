@@ -99,4 +99,4 @@ pip install jupyter pandas numpy scipy seaborn matplotlib scikit-learn aiohttp n
 
 Created by Isaiah Woram
 
-Feel free to reach out at idw2005@nyu.edu
+Feel free to reach out at idw2005@nyu.edu with any questions or feedback!
