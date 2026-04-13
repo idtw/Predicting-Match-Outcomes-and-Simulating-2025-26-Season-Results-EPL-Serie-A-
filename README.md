@@ -64,7 +64,7 @@ pl_predictor/
 | 1 - Setup | 1-6 | Imports, data loading, cleaning, feature engineering |
 | 2 - Historical EDA | 7-10 | Attack/defense scatter plots, xPTS overperformance heatmap, xG trends |
 | 3 - Poisson Model | 11-14 | Distribution explainer, current strength ratings, rivalry simulations |
-| 4 - Monte Carlo | 15-21 | Schedule parsing, simulation engine, finish probability tables and heatmaps |
+| 4 - Monte Carlo | 15-22 | Schedule parsing, simulation engine, finish probability tables and heatmaps |
 
 ---
 
