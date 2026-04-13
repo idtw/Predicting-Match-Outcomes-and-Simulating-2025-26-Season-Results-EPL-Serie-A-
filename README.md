@@ -1,6 +1,6 @@
 # Predicting Match Outcomes and Simulating 2025/26 Season Results - EPL & Serie A
 
-A multi-season football data science project modeling match outcomes and simulating the remaining 2025/26 Premier League and Serie A seasons using xG-based Poisson distributions and Monte Carlo methods.
+A multi-season football data science project modeling match outcomes and simulating the remaining 2025/26 Premier League and Serie A seasons using xG-based Poisson distributions and Monte Carlo simulations.
 
 ---
 
